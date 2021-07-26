@@ -325,3 +325,14 @@ background-color: #FF6600
   background-color: #8c0615;
   border-color: #8c0615;
 }
+
+.Nav-Links {
+  text-align: center;
+  padding: 10px;
+}
+
+.Nav-Links > a {
+  color: black;
+  padding: 10px;
+}
+
