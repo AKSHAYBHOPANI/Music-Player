@@ -336,3 +336,22 @@ background-color: #FF6600
   padding: 10px;
 }
 
+.articles {
+  background-color: white;
+  border: 2px solid black;
+}
+
+.articles > a > article {
+  text-align: left;
+  padding: 10px;
+}
+
+.articles > a > article > h2, p {
+  text-align: left;
+  color: black;
+}
+
+footer > p  {
+  text-align: center!important;
+  text-align: justify;
+}
