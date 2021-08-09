@@ -360,3 +360,7 @@ footer > p  {
 .articles > a:hover > article > h2{
   color: gold;
 }
+
+a {
+  text-decoration: none;
+}
